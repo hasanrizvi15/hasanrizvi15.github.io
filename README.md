@@ -1,1 +1,2 @@
-# hasanrizvi15.github.io
+# This is a redirect website
+## Please go to hizvi.github.io
